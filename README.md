@@ -1,1 +1,1 @@
-# 5LSL0---Variational-Autoencoder
+Repository for creating a Variational Autoencoder using Pytorch
